@@ -1,0 +1,18 @@
+.ticket-box{
+border: 1px solid #ccc;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-bottom: 5px;
+ }
+div.box-ticket-container {
+	 min-height:80vh !important;
+	 background:#fff !important;
+ }
+div.box-ticket-order {
+
+    height: auto;
+    padding: 0px;
+    overflow: inherit;
+    background: #fff;
+
+}

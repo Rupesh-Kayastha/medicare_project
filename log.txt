@@ -1,0 +1,8 @@
+Array
+(
+    [name] => IMG-20200515-WA0006.jpg?1589561429223
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpzINLvt
+    [error] => 0
+    [size] => 36209
+)
